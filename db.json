@@ -1,40 +1,40 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "name": "New name",
-      "email": "new@example.com"
-    },
-    {
-      "id": "2",
-      "name": "Updated name",
-      "email": "ervin@example.com"
-    },
-    {
-      "id": "87e0",
-      "name": "Ivan",
-      "email": "ivan@example.com"
-    }
-  ],
-  "posts": [
-    {
-      "id": "1",
-      "userId": 1,
-      "title": "Post 1",
-      "body": "..."
-    },
-    {
-      "id": "2",
-      "userId": 1,
-      "title": "Post 2",
-      "body": "..."
-    }
-  ],
-  "comments": [
-    {
-      "id": "1",
-      "postId": 1,
-      "body": "Nice post!"
-    }
-  ]
+    "users": [
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "email": "leanne@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Ervin Howell",
+            "email": "ervin@example.com"
+        },
+        {
+            "id": "3",
+            "name": "Bob Dylan",
+            "email": "bob@example.com"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Post 1",
+            "body": "..."
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "title": "Post 2",
+            "body": "..."
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "postId": 1,
+            "body": "Nice post!"
+        }
+    ]
 }
