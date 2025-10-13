@@ -41,7 +41,12 @@
             "title": "eum et est occaecati",
             "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
             "comments": [
-                {"timeId": 1760376515356, "name": "Роман", "comment": "Коментар-1", "date": "13 жовтня 2025 р. о 21:25"}
+                {
+                    "timeId": 1760376515356,
+                    "name": "Роман",
+                    "comment": "Коментар-1",
+                    "date": "13 жовтня 2025 р. о 21:25"
+                }
             ]
         },
         {
