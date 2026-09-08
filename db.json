@@ -1817,7 +1817,7 @@
             "id": "BbPsWblGR9U"
         }
     ],
-    "starWars": {
+    "starWarsMy": {
         "main": {
             "header": {
                 "headerTitle": "Star Wars Fan Hub",
@@ -1867,5 +1867,369 @@
             ]
         },
         "shop": {}
+    },
+    "starWars": {
+        "main": {
+            "header": {
+                "headerTitle": "Star Wars Fan Hub",
+                "headerMenu": [
+                    {
+                        "title": "Про сайт",
+                        "link": "#about"
+                    },
+                    {
+                        "title": "Всесвіт",
+                        "link": "#universe"
+                    },
+                    {
+                        "title": "Сила",
+                        "link": "#force"
+                    },
+                    {
+                        "title": "Джедаї і Сітхи",
+                        "link": "#jedi"
+                    },
+                    {
+                        "title": "Війни",
+                        "link": "#wars"
+                    },
+                    {
+                        "title": "Енциклопедія",
+                        "link": "encyclopedia.html"
+                    },
+                    {
+                        "title": "Магазин",
+                        "link": "shop.html"
+                    }
+                ]
+            },
+            "about": {
+                "title": "Про сайт",
+                "image": "/images/about-sw.jpg",
+                "imageAlt": "Star Wars intro",
+                "description": [
+                    "Star Wars Fan Hub — це фанатський освітній сайт...",
+                    "Проєкт допомагає краще зрозуміти..."
+                ]
+            },
+            "universe": {
+                "title": "Всесвіт Star Wars",
+                "image": "/images/univers.jpg",
+                "imageAlt": "Galaxy",
+                "description": [
+                    "  Події Star Wars відбуваються у далекій-далекій галактиці, населеній тисячами планет,різними расами та цивілізаціями, що розвивалися протягом тисячоліть.",
+                    " Галактика постійно змінюється під впливом політичних інтриг, масштабних воєн та Сили — загадкової енергії, яка пронизує все живе і визначає долі героїв."
+                ]
+            },
+            "force": {
+                "title": "Сила",
+                "image": "/images/force.jpg",
+                "imageAlt": "The Force",
+                "description": [
+                    "  Сила — це універсальне енергетичне поле, яке народжується з усього живого та зв’язує між собою всі істоти, планети й події в Галактиці. Вона не є ні доброю, ні злою сама по собі, але реагує на волю, емоції та наміри тих, хто здатен її відчувати й контролювати.",
+                    "  Світла сторона Сили базується на спокої, гармонії та самоконтролі, тоді як Темна сторона черпає силу з пристрасті, страху та гніву. Протистояння між цими шляхами триває століттями й формує баланс Сили, від якого залежить доля всієї Галактики."
+                ]
+            },
+            "jedi": {
+                "title": "Джедаї та Сітхи",
+                "image": "/images/sith-jedi.jpg",
+                "imageAlt": "Jedi vs Sith",
+                "description": [
+                    "  Джедаї — древній орден воїнів і філософів, покликаних зберігати мир і баланс у Галактиці. Вони слідують Світлій стороні Сили, навчаються самоконтролю, мудрості та самопожертви, використовуючи Силу виключно для захисту життя й підтримання гармонії.",
+                    "  Сітхи — орден темних адептів Сили, які вірять, що справжня сила народжується з емоцій,пристрасті та гніву. Вони використовують Темну сторону Сили для досягнення влади,панування й контролю, не зважаючи на наслідки для Галактики."
+                ]
+            },
+            "wars": {
+                "title": "Галактичні війни",
+                "image": "/images/wars.jpeg",
+                "imageAlt": "Galactic war",
+                "description": [
+                    "  Всесвіт Star Wars переповнений грандіозними війнами та міжгалактичними конфліктами, де доля цілих планет і цивілізацій вирішується на полі бою.",
+                    "  Кожна війна породжує нових героїв, лиходіїв і легенди, залишаючи слід у історії Галактики та впливаючи на баланс Сили."
+                ]
+            },
+            "footer": {
+                "copyright": "© 2026 Star Wars Fan Project"
+            }
+        },
+        "encyclopedia": {
+            "eras": [
+                {
+                    "title": "Стара Республіка",
+                    "image": "/images/old-republic.webp",
+                    "imageAlt": "Old Republic",
+                    "description": "Епоха тисячолітніх війн..."
+                },
+                {
+                    "title": "Війни клонів",
+                    "image": "/images/clone-wars.jpg",
+                    "imageAlt": "Clone Wars",
+                    "description": "Галактичний конфлікт..."
+                },
+                {
+                    "title": "Час Імперії",
+                    "image": "/images/galactic-empire.jpg",
+                    "imageAlt": "Galactic Empire",
+                    "description": "Правління Палпатіна..."
+                },
+                {
+                    "title": "Нова Республіка",
+                    "image": "/images/new-republic.jpg",
+                    "imageAlt": "New Republic",
+                    "description": "Період відновлення..."
+                }
+            ],
+            "factions": [
+                {
+                    "title": "Орден Джедаїв",
+                    "image": "./images/Jedi-Logo.png",
+                    "imageAlt": "Jedi Order",
+                    "description": "Хранителі Світлої сторони Сили..."
+                },
+                {
+                    "title": "Орден Сітхів",
+                    "image": "./images/sith-logo.png",
+                    "imageAlt": "Sith Order",
+                    "description": "Темні володарі Сили..."
+                },
+                {
+                    "title": "КНС (Конфедерація Незалежних Систем)",
+                    "image": "./images/cis-logo.webp",
+                    "imageAlt": "CIS",
+                    "description": "Альянс планет..."
+                },
+                {
+                    "title": "Повстанський Альянс",
+                    "image": "./images/rebel-logo.webp",
+                    "imageAlt": "Rebel Alliance",
+                    "description": "Рух опору..."
+                },
+                {
+                    "title": "Перший Орден",
+                    "image": "./images/first-order-logo.webp",
+                    "imageAlt": "First Order",
+                    "description": "Спадкоємець Імперії..."
+                }
+            ],
+            "lightsaberForms": [
+                {
+                    "name": "Form I — Shii-Cho",
+                    "key": "shii-cho"
+                },
+                {
+                    "name": "Form II — Makashi",
+                    "key": "makashi"
+                },
+                {
+                    "name": "Form III — Soresu",
+                    "key": "soresu"
+                },
+                {
+                    "name": "Form IV — Ataru",
+                    "key": "ataru"
+                },
+                {
+                    "name": "Form V — Djem So",
+                    "key": "djem-so"
+                },
+                {
+                    "name": "Form VI — Niman",
+                    "key": "niman"
+                },
+                {
+                    "name": "Form VII — Juyo / Vaapad",
+                    "key": "juyo"
+                }
+            ],
+            "planets": [
+                {
+                    "id": 1,
+                    "name": "Tatooine",
+                    "climate": "Arid",
+                    "terrain": "Desert",
+                    "gravity": "1 standard",
+                    "population": "200000",
+                    "description": "Пустельна планета, де народився Люк Скайвокер."
+                },
+                {
+                    "id": 2,
+                    "name": "Coruscant",
+                    "climate": "Temperate",
+                    "terrain": "City",
+                    "gravity": "1 standard",
+                    "population": "1000000000000",
+                    "description": "Столиця Галактичної Республіки."
+                },
+                {
+                    "id": 3,
+                    "name": "Naboo",
+                    "climate": "Temperate",
+                    "terrain": "Plains",
+                    "gravity": "1 standard",
+                    "population": "4500000000",
+                    "description": "Батьківщина Падме Амідали."
+                },
+                {
+                    "id": 4,
+                    "name": "Mustafar",
+                    "climate": "Hot",
+                    "terrain": "Volcanic",
+                    "gravity": "1 standard",
+                    "population": "20000",
+                    "description": "Вулканічний світ Дарта Вейдера."
+                },
+                {
+                    "id": 5,
+                    "name": "Hoth",
+                    "climate": "Frozen",
+                    "terrain": "Ice",
+                    "gravity": "1.1 standard",
+                    "population": "0",
+                    "description": "Крижана база Повстанців."
+                },
+                {
+                    "id": 6,
+                    "name": "Endor",
+                    "climate": "Temperate",
+                    "terrain": "Forest",
+                    "gravity": "0.85 standard",
+                    "population": "30000000",
+                    "description": "Домівка евоків."
+                },
+                {
+                    "id": 7,
+                    "name": "Kashyyyk",
+                    "climate": "Tropical",
+                    "terrain": "Jungle",
+                    "gravity": "1 standard",
+                    "population": "45000000",
+                    "description": "Планета вукі."
+                }
+            ],
+            "availablePlanets": [
+                {
+                    "id": 8,
+                    "name": "Kamino",
+                    "climate": "Temperate",
+                    "terrain": "Ocean",
+                    "gravity": "1 standard",
+                    "population": "1000000000",
+                    "description": "Планета клонів."
+                },
+                {
+                    "id": 9,
+                    "name": "Geonosis",
+                    "climate": "Arid",
+                    "terrain": "Rock",
+                    "gravity": "0.9 standard",
+                    "population": "100000000000",
+                    "description": "Батьківщина геонозійців."
+                },
+                {
+                    "id": 10,
+                    "name": "Dagobah",
+                    "climate": "Murky",
+                    "terrain": "Swamp",
+                    "gravity": "N/A",
+                    "population": "0",
+                    "description": "Планета, де Люк навчався у Йоди."
+                },
+                {
+                    "id": 11,
+                    "name": "Bespin",
+                    "climate": "Temperate",
+                    "terrain": "Gas Giant",
+                    "gravity": "1.5 standard",
+                    "population": "6000000",
+                    "description": "Хмарне місто Ландо."
+                },
+                {
+                    "id": 12,
+                    "name": "Corellia",
+                    "climate": "Temperate",
+                    "terrain": "Urban",
+                    "gravity": "1 standard",
+                    "population": "3000000000",
+                    "description": "Батьківщина Хана Соло."
+                }
+            ],
+            "characterGroups": [
+                {
+                    "title": "Орден Джедаїв",
+                    "class": "jedi",
+                    "characters": [
+                        "Luke Skywalker",
+                        "Obi-Wan Kenobi",
+                        "Yoda",
+                        "Mace Windu",
+                        "Qui-Gon Jinn",
+                        "Ahsoka Tano"
+                    ]
+                },
+                {
+                    "title": "Сітхи",
+                    "class": "sith",
+                    "characters": [
+                        "Darth Vader",
+                        "Darth Sidious",
+                        "Darth Maul",
+                        "Count Dooku",
+                        "Kylo Ren"
+                    ]
+                },
+                {
+                    "title": "Повстанці",
+                    "class": "rebels",
+                    "characters": [
+                        "Leia Organa",
+                        "Han Solo",
+                        "Cassian Andor",
+                        "Mon Mothma",
+                        "Jyn Erso"
+                    ]
+                },
+                {
+                    "title": "Галактична Імперія",
+                    "class": "empire",
+                    "characters": [
+                        "Grand Moff Tarkin",
+                        "Admiral Thrawn",
+                        "Imperial Inquisitors"
+                    ]
+                }
+            ],
+            "movies": [
+                {
+                    "episode": "Episode I",
+                    "title": "The Phantom Menace",
+                    "description": "Знайомство з молодим Енакіном і повернення Сітхів."
+                },
+                {
+                    "episode": "Episode II",
+                    "title": "Attack of the Clones",
+                    "description": "Початок Війн клонів та занепад Республіки."
+                },
+                {
+                    "episode": "Episode III",
+                    "title": "Revenge of the Sith",
+                    "description": "Падіння Джедаїв і народження Дарта Вейдера."
+                },
+                {
+                    "episode": "Episode IV",
+                    "title": "A New Hope",
+                    "description": "Люк вступає в боротьбу проти Імперії."
+                },
+                {
+                    "episode": "Episode V",
+                    "title": "The Empire Strikes Back",
+                    "description": "Імперія завдає нищівного удару Повстанцям."
+                },
+                {
+                    "episode": "Episode VI",
+                    "title": "Return of the Jedi",
+                    "description": "Падіння Імператора та спасіння Енакіна."
+                }
+            ]
+        }
     }
 }
