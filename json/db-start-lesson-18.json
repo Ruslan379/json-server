@@ -2049,7 +2049,8 @@
                     "terrain": "Desert",
                     "gravity": "1 standard",
                     "population": "200000",
-                    "description": "Пустельна планета, де народився Люк Скайвокер."
+                    "description": "Пустельна планета, де народився Люк Скайвокер.",
+                    "image": "/images/planets/tatooine.jpg"
                 },
                 {
                     "id": 2,
@@ -2058,7 +2059,8 @@
                     "terrain": "City",
                     "gravity": "1 standard",
                     "population": "1000000000000",
-                    "description": "Столиця Галактичної Республіки."
+                    "description": "Столиця Галактичної Республіки.",
+                    "image": "/images/planets/coruscant.jpg"
                 },
                 {
                     "id": 3,
@@ -2067,7 +2069,8 @@
                     "terrain": "Plains",
                     "gravity": "1 standard",
                     "population": "4500000000",
-                    "description": "Батьківщина Падме Амідали."
+                    "description": "Батьківщина Падме Амідали.",
+                    "image": "/images/planets/naboo.jpg"
                 },
                 {
                     "id": 4,
@@ -2076,7 +2079,8 @@
                     "terrain": "Volcanic",
                     "gravity": "1 standard",
                     "population": "20000",
-                    "description": "Вулканічний світ Дарта Вейдера."
+                    "description": "Вулканічний світ Дарта Вейдера.",
+                    "image": "/images/planets/mustafar.jpg"
                 },
                 {
                     "id": 5,
@@ -2085,7 +2089,8 @@
                     "terrain": "Ice",
                     "gravity": "1.1 standard",
                     "population": "0",
-                    "description": "Крижана база Повстанців."
+                    "description": "Крижана база Повстанців.",
+                    "image": "/images/planets/hoth.jpg"
                 },
                 {
                     "id": 6,
@@ -2094,7 +2099,8 @@
                     "terrain": "Forest",
                     "gravity": "0.85 standard",
                     "population": "30000000",
-                    "description": "Домівка евоків."
+                    "description": "Домівка евоків.",
+                    "image": "/images/planets/endor.jpg"
                 },
                 {
                     "id": 7,
@@ -2103,7 +2109,8 @@
                     "terrain": "Jungle",
                     "gravity": "1 standard",
                     "population": "45000000",
-                    "description": "Планета вукі."
+                    "description": "Планета вукі.",
+                    "image": "/images/planets/kashyyyk.jpg"
                 }
             ],
             "availablePlanets": [
@@ -2114,7 +2121,8 @@
                     "terrain": "Ocean",
                     "gravity": "1 standard",
                     "population": "1000000000",
-                    "description": "Планета клонів."
+                    "description": "Планета клонів.",
+                    "image": "/images/planets/kamino.jpg"
                 },
                 {
                     "id": 9,
@@ -2123,7 +2131,8 @@
                     "terrain": "Rock",
                     "gravity": "0.9 standard",
                     "population": "100000000000",
-                    "description": "Батьківщина геонозійців."
+                    "description": "Батьківщина геонозійців.",
+                    "image": "/images/planets/geonosis.jpg"
                 },
                 {
                     "id": 10,
@@ -2132,7 +2141,8 @@
                     "terrain": "Swamp",
                     "gravity": "N/A",
                     "population": "0",
-                    "description": "Планета, де Люк навчався у Йоди."
+                    "description": "Планета, де Люк навчався у Йоди.",
+                    "image": "/images/planets/dagobah.jpg"
                 },
                 {
                     "id": 11,
@@ -2141,7 +2151,8 @@
                     "terrain": "Gas Giant",
                     "gravity": "1.5 standard",
                     "population": "6000000",
-                    "description": "Хмарне місто Ландо."
+                    "description": "Хмарне місто Ландо.",
+                    "image": "/images/planets/bespin.jpg"
                 },
                 {
                     "id": 12,
@@ -2150,7 +2161,8 @@
                     "terrain": "Urban",
                     "gravity": "1 standard",
                     "population": "3000000000",
-                    "description": "Батьківщина Хана Соло."
+                    "description": "Батьківщина Хана Соло.",
+                    "image": "/images/planets/corellia.jpg"
                 }
             ],
             "characterGroups": [
