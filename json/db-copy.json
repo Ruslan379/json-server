@@ -2417,7 +2417,8 @@
                 ],
                 "colorsPrice": {
                     "main72": 820,
-                    "main100": 480
+                    "main100_1": 480,
+                    "main100_2": 480
                 },
                 "actualImages": [
                     "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-20-comp-1.jpg",
@@ -3486,7 +3487,8 @@
                 ],
                 "colorsPrice": {
                     "main72": 820,
-                    "main100": 480
+                    "main100_1": 480,
+                    "main100_2": 480
                 },
                 "actualImages": [
                     "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-20-comp-1.jpg",
@@ -4382,6 +4384,54 @@
             }
         }
     ],
+    "usersAircraftsTest" :[
+        {
+            "userName": "User1",
+            "userEmail": "user1@gmail.com",
+            "userPassword": "u1",
+            "userExperience": "disciple",
+            "userAge": "18-25",
+            "isActive": false,
+            "indicesSelectedModels": ["0001","0011"]
+        },
+        {
+            "userName": "User2",
+            "userEmail": "user2@gmail.com",
+            "userPassword": "u2",
+            "userExperience": "master",
+            "userAge": "26-35",
+            "isActive": false,
+            "indicesSelectedModels": ["0002","0012"]
+        },
+        {
+            "userName": "User3",
+            "userEmail": "user3@gmail.com",
+            "userPassword": "u3",
+            "userExperience": "guru",
+            "userAge": "36+",
+            "isActive": false,
+            "indicesSelectedModels": ["0003","0013"]
+        },
+        {
+            "userName": "User4",
+            "userEmail": "user4@gmail.com",
+            "userPassword": "u4",
+            "userExperience": "",
+            "userAge": "",
+            "isActive": false,
+            "indicesSelectedModels": []
+        },
+        {
+            "userName": "User5",
+            "userEmail": "user5@gmail.com",
+            "userPassword": "u5",
+            "userExperience": "",
+            "userAge": "",
+            "isActive": false,
+            "indicesSelectedModels": []
+        }
+    ],
+    "usersAircrafts": [],
     "cards": [
         {
             "id": "tun8aiIvlZk",
