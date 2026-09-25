@@ -1905,7 +1905,7 @@
             },
             "about": {
                 "title": "Про сайт",
-                "image": "/images/about-sw.jpg",
+                "image": "images/about-sw.jpg",
                 "imageAlt": "Star Wars intro",
                 "description": [
                     "Star Wars Fan Hub — це фанатський освітній сайт...",
@@ -1914,7 +1914,7 @@
             },
             "universe": {
                 "title": "Всесвіт Star Wars",
-                "image": "/images/univers.jpg",
+                "image": "images/univers.jpg",
                 "imageAlt": "Galaxy",
                 "description": [
                     "  Події Star Wars відбуваються у далекій-далекій галактиці, населеній тисячами планет,різними расами та цивілізаціями, що розвивалися протягом тисячоліть.",
@@ -1923,7 +1923,7 @@
             },
             "force": {
                 "title": "Сила",
-                "image": "/images/force.jpg",
+                "image": "images/force.jpg",
                 "imageAlt": "The Force",
                 "description": [
                     "  Сила — це універсальне енергетичне поле, яке народжується з усього живого та зв’язує між собою всі істоти, планети й події в Галактиці. Вона не є ні доброю, ні злою сама по собі, але реагує на волю, емоції та наміри тих, хто здатен її відчувати й контролювати.",
@@ -1932,7 +1932,7 @@
             },
             "jedi": {
                 "title": "Джедаї та Сітхи",
-                "image": "/images/sith-jedi.jpg",
+                "image": "images/sith-jedi.jpg",
                 "imageAlt": "Jedi vs Sith",
                 "description": [
                     "  Джедаї — древній орден воїнів і філософів, покликаних зберігати мир і баланс у Галактиці. Вони слідують Світлій стороні Сили, навчаються самоконтролю, мудрості та самопожертви, використовуючи Силу виключно для захисту життя й підтримання гармонії.",
@@ -1941,7 +1941,7 @@
             },
             "wars": {
                 "title": "Галактичні війни",
-                "image": "/images/wars.jpeg",
+                "image": "images/wars.jpeg",
                 "imageAlt": "Galactic war",
                 "description": [
                     "  Всесвіт Star Wars переповнений грандіозними війнами та міжгалактичними конфліктами, де доля цілих планет і цивілізацій вирішується на полі бою.",
@@ -1956,25 +1956,25 @@
             "eras": [
                 {
                     "title": "Стара Республіка",
-                    "image": "/images/old-republic.webp",
+                    "image": "images/old-republic.webp",
                     "imageAlt": "Old Republic",
                     "description": "Епоха тисячолітніх війн..."
                 },
                 {
                     "title": "Війни клонів",
-                    "image": "/images/clone-wars.jpg",
+                    "image": "images/clone-wars.jpg",
                     "imageAlt": "Clone Wars",
                     "description": "Галактичний конфлікт..."
                 },
                 {
                     "title": "Час Імперії",
-                    "image": "/images/galactic-empire.jpg",
+                    "image": "images/galactic-empire.jpg",
                     "imageAlt": "Galactic Empire",
                     "description": "Правління Палпатіна..."
                 },
                 {
                     "title": "Нова Республіка",
-                    "image": "/images/new-republic.jpg",
+                    "image": "images/new-republic.jpg",
                     "imageAlt": "New Republic",
                     "description": "Період відновлення..."
                 }
@@ -2043,14 +2043,14 @@
             ],
             "planets": [
                 {
-                    "id": 1,
-                    "name": "Tatooine",
-                    "climate": "Arid",
-                    "terrain": "Desert",
-                    "gravity": "1 standard",
-                    "population": "200000",
-                    "description": "Пустельна планета, де народився Люк Скайвокер.",
-                    "image": "/images/planets/tatooine.jpg"
+                    "id": 11,
+                    "name": "Bespin",
+                    "climate": "Temperate",
+                    "terrain": "Gas Giant",
+                    "gravity": "1.5 standard",
+                    "population": "6000000",
+                    "description": "Хмарне місто Ландо.",
+                    "image": "images/planets/bespin.jpg"
                 },
                 {
                     "id": 2,
@@ -2060,37 +2060,17 @@
                     "gravity": "1 standard",
                     "population": "1000000000000",
                     "description": "Столиця Галактичної Республіки.",
-                    "image": "/images/planets/coruscant.jpg"
+                    "image": "images/planets/coruscant.jpg"
                 },
                 {
-                    "id": 3,
-                    "name": "Naboo",
-                    "climate": "Temperate",
-                    "terrain": "Plains",
-                    "gravity": "1 standard",
-                    "population": "4500000000",
-                    "description": "Батьківщина Падме Амідали.",
-                    "image": "/images/planets/naboo.jpg"
-                },
-                {
-                    "id": 4,
-                    "name": "Mustafar",
-                    "climate": "Hot",
-                    "terrain": "Volcanic",
-                    "gravity": "1 standard",
-                    "population": "20000",
-                    "description": "Вулканічний світ Дарта Вейдера.",
-                    "image": "/images/planets/mustafar.jpg"
-                },
-                {
-                    "id": 5,
-                    "name": "Hoth",
-                    "climate": "Frozen",
-                    "terrain": "Ice",
-                    "gravity": "1.1 standard",
+                    "id": 10,
+                    "name": "Dagobah",
+                    "climate": "Murky",
+                    "terrain": "Swamp",
+                    "gravity": "N/A",
                     "population": "0",
-                    "description": "Крижана база Повстанців.",
-                    "image": "/images/planets/hoth.jpg"
+                    "description": "Планета, де Люк навчався у Йоди.",
+                    "image": "images/planets/dagobah.jpg"
                 },
                 {
                     "id": 6,
@@ -2100,7 +2080,17 @@
                     "gravity": "0.85 standard",
                     "population": "30000000",
                     "description": "Домівка евоків.",
-                    "image": "/images/planets/endor.jpg"
+                    "image": "images/planets/endor.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Hoth",
+                    "climate": "Frozen",
+                    "terrain": "Ice",
+                    "gravity": "1.1 standard",
+                    "population": "0",
+                    "description": "Крижана база Повстанців.",
+                    "image": "images/planets/hoth.jpg"
                 },
                 {
                     "id": 7,
@@ -2110,7 +2100,37 @@
                     "gravity": "1 standard",
                     "population": "45000000",
                     "description": "Планета вукі.",
-                    "image": "/images/planets/kashyyyk.jpg"
+                    "image": "images/planets/kashyyyk.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Mustafar",
+                    "climate": "Hot",
+                    "terrain": "Volcanic",
+                    "gravity": "1 standard",
+                    "population": "20000",
+                    "description": "Вулканічний світ Дарта Вейдера.",
+                    "image": "images/planets/mustafar.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Naboo",
+                    "climate": "Temperate",
+                    "terrain": "Plains",
+                    "gravity": "1 standard",
+                    "population": "4500000000",
+                    "description": "Батьківщина Падме Амідали.",
+                    "image": "images/planets/naboo.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Tatooine",
+                    "climate": "Arid",
+                    "terrain": "Desert",
+                    "gravity": "1 standard",
+                    "population": "200000",
+                    "description": "Пустельна планета, де народився Люк Скайвокер.",
+                    "image": "images/planets/tatooine.jpg"
                 }
             ],
             "availablePlanets": [
@@ -2122,7 +2142,7 @@
                     "gravity": "1 standard",
                     "population": "1000000000",
                     "description": "Планета клонів.",
-                    "image": "/images/planets/kamino.jpg"
+                    "image": "images/planets/kamino.jpg"
                 },
                 {
                     "id": 9,
@@ -2132,27 +2152,7 @@
                     "gravity": "0.9 standard",
                     "population": "100000000000",
                     "description": "Батьківщина геонозійців.",
-                    "image": "/images/planets/geonosis.jpg"
-                },
-                {
-                    "id": 10,
-                    "name": "Dagobah",
-                    "climate": "Murky",
-                    "terrain": "Swamp",
-                    "gravity": "N/A",
-                    "population": "0",
-                    "description": "Планета, де Люк навчався у Йоди.",
-                    "image": "/images/planets/dagobah.jpg"
-                },
-                {
-                    "id": 11,
-                    "name": "Bespin",
-                    "climate": "Temperate",
-                    "terrain": "Gas Giant",
-                    "gravity": "1.5 standard",
-                    "population": "6000000",
-                    "description": "Хмарне місто Ландо.",
-                    "image": "/images/planets/bespin.jpg"
+                    "image": "images/planets/geonosis.jpg"
                 },
                 {
                     "id": 12,
@@ -2162,7 +2162,7 @@
                     "gravity": "1 standard",
                     "population": "3000000000",
                     "description": "Батьківщина Хана Соло.",
-                    "image": "/images/planets/corellia.jpg"
+                    "image": "images/planets/corellia.jpg"
                 }
             ],
             "characterGroups": [
