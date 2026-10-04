@@ -4428,7 +4428,10 @@
             "userPassword": "u4",
             "userExperience": "",
             "userAge": "",
-            "indicesSelectedModels": []
+            "indicesSelectedModels": [
+                "0004",
+                "0014"
+            ]
         },
         {
             "id": "005",
@@ -4437,7 +4440,63 @@
             "userPassword": "u5",
             "userExperience": "",
             "userAge": "",
-            "indicesSelectedModels": []
+            "indicesSelectedModels": [
+                "0005",
+                "0015"
+            ]
+        },
+        {
+            "userName": "User6",
+            "userEmail": "user6@gmail.com",
+            "userPassword": "u6",
+            "userExperience": "disciple",
+            "userAge": "18-25",
+            "userNickName": "rattata",
+            "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+            "indicesSelectedModels": [
+                "0006",
+                "0016"
+            ],
+            "id": "pDauJqHazeY"
+        },
+        {
+            "userName": "User7",
+            "userEmail": "user7@gmail.com",
+            "userPassword": "u8",
+            "userExperience": "master",
+            "userAge": "26-35",
+            "userNickName": "stunfisk",
+            "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
+            "indicesSelectedModels": [],
+            "id": "iPZc_Vrqw58"
+        },
+        {
+            "userName": "User8",
+            "userEmail": "user8@gmail.com",
+            "userPassword": "u8",
+            "userExperience": "guru",
+            "userAge": "36+",
+            "userNickName": "ralts",
+            "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+            "indicesSelectedModels": [
+                "0008",
+                "0018"
+            ],
+            "id": "wvQYvI-GlcA"
+        },
+        {
+            "userName": "User9",
+            "userEmail": "user9@gmail.com",
+            "userPassword": "u9",
+            "userExperience": "",
+            "userAge": "",
+            "userNickName": "pincurchin",
+            "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png",
+            "indicesSelectedModels": [
+                "0009",
+                "0019"
+            ],
+            "id": "PGrPa49qHj0"
         }
     ],
     "usersAircrafts": [],
