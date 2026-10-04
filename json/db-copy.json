@@ -4467,7 +4467,10 @@
             "userExperience": "master",
             "userNickName": "stunfisk",
             "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
-            "indicesSelectedModels": [],
+            "indicesSelectedModels": [
+                "0007",
+                "0017"
+            ],
             "id": "iPZc_Vrqw58"
         },
         {
