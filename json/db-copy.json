@@ -4390,8 +4390,8 @@
             "userName": "User1",
             "userEmail": "user1@gmail.com",
             "userPassword": "u1",
-            "userExperience": "disciple",
             "userAge": "18-25",
+            "userExperience": "disciple",
             "indicesSelectedModels": [
                 "0001",
                 "0011"
@@ -4402,8 +4402,8 @@
             "userName": "User2",
             "userEmail": "user2@gmail.com",
             "userPassword": "u2",
-            "userExperience": "master",
             "userAge": "26-35",
+            "userExperience": "master",
             "indicesSelectedModels": [
                 "0002",
                 "0012"
@@ -4414,8 +4414,8 @@
             "userName": "User3",
             "userEmail": "user3@gmail.com",
             "userPassword": "u3",
-            "userExperience": "guru",
             "userAge": "36+",
+            "userExperience": "guru",
             "indicesSelectedModels": [
                 "0003",
                 "0013"
@@ -4426,8 +4426,8 @@
             "userName": "User4",
             "userEmail": "user4@gmail.com",
             "userPassword": "u4",
-            "userExperience": "",
             "userAge": "",
+            "userExperience": "",
             "indicesSelectedModels": [
                 "0004",
                 "0014"
@@ -4438,8 +4438,8 @@
             "userName": "User5",
             "userEmail": "user5@gmail.com",
             "userPassword": "u5",
-            "userExperience": "",
             "userAge": "",
+            "userExperience": "",
             "indicesSelectedModels": [
                 "0005",
                 "0015"
@@ -4449,8 +4449,8 @@
             "userName": "User6",
             "userEmail": "user6@gmail.com",
             "userPassword": "u6",
-            "userExperience": "disciple",
             "userAge": "18-25",
+            "userExperience": "disciple",
             "userNickName": "rattata",
             "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
             "indicesSelectedModels": [
@@ -4463,8 +4463,8 @@
             "userName": "User7",
             "userEmail": "user7@gmail.com",
             "userPassword": "u8",
-            "userExperience": "master",
             "userAge": "26-35",
+            "userExperience": "master",
             "userNickName": "stunfisk",
             "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
             "indicesSelectedModels": [],
@@ -4474,8 +4474,8 @@
             "userName": "User8",
             "userEmail": "user8@gmail.com",
             "userPassword": "u8",
-            "userExperience": "guru",
             "userAge": "36+",
+            "userExperience": "guru",
             "userNickName": "ralts",
             "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
             "indicesSelectedModels": [
@@ -4488,8 +4488,8 @@
             "userName": "User9",
             "userEmail": "user9@gmail.com",
             "userPassword": "u9",
-            "userExperience": "",
             "userAge": "",
+            "userExperience": "",
             "userNickName": "pincurchin",
             "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png",
             "indicesSelectedModels": [
