@@ -9,7 +9,9 @@
     },
     "info": {
       "year": 1940,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Палубний винищувач-бомбардувальник",
       "price": "$75000, (20,2 мільйони фунтів стерлінгів)",
       "description": "Винищувач відмінно зарекомендував себе в ході бойових дій, перебував на озброєнні американської палубної авіації, в морській піхоті, а також у флотах Великої Британії, Нової Зеландії, Франції та інших країнах світу. Деякі японські пілоти вважали його найпотужнішим винищувачем Другої світової війни, а експерти американських ВМС підрахували співвідношення бойових втрат у повітряних боях за участю «Корсарів», як 11:1 на користь останнього"
@@ -24,7 +26,9 @@
       "end": "1952-01-01T00:00:00"
     },
     "model": {
-      "scale": [48],
+      "scale": [
+        48
+      ],
       "colorsPrice": {
         "silver": 540,
         "darkGreen": 580,
@@ -34,35 +38,35 @@
         "white": 0
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f4u-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f4u-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f4u-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f4u-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f4u-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f4u-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f4u-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f4u-comp-4.jpg"
       ],
       "actualFullImages": [
         "https://lh3.googleusercontent.com/pw/AP1GczOPkbQOQaJ-OXoP8Vi0VWXbomtAYgnpeUR5r8m4QP896B7WW0e0zq2BQt32wMTAyUCkgWhF3nWEIdBJsEwFOQsIpwnuxOFR_hkxUKgqg3lBuZTE-PqoZMxf3RV6uPOQM9DtP_JE6v3Wjm4yraP4IS9z=w2450-h1838-s-no-gm?authuser=0",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-02.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-03.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-04.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-05.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-06.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-07.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-08.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-09.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-10.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-11.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-12.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-13.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-14.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-15.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-16.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-17.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-18.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-19.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-20.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-02.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-03.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-04.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-05.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-06.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-07.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-08.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-09.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-10.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-11.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-12.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-13.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-14.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-15.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-16.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-17.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-18.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-19.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-20.jpg"
       ],
       "_actualFullImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/f4u/f4u-full-01.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/f4u/f4u-full-01.jpg",
         "https://lh3.googleusercontent.com/pw/AP1GczPL7iT8Y--wf0kFsl_BQY_fmBdQlBDuAxX7L9Joqz6NIHKhXgy7ztuuYzvdvdV7N92JCjGUmKabv8YAKs5JqwcXQVXowzcGLB_WAjLzFCFiZszDr9j35ZcaY2wc-Bs7cwTGEw0cJP5cn-FMB78XJl7a=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczM9ypcpGR_MLEyw2Qp8BXdHg4gLcZIScyHfT6Qbj49T8ShyEsOYdE_CDeTxYiQLd_pPn0oDZ-P41uaiXQkQNCagQ2MgDS3hBdvtT_MNlw2kKjsdobK9qPQyKy_AGLnQ5r6h43k0wJANB4q3Lkc96Ww7=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczOwnujmmCo45CUKTOEtOGe-8QsXtcvz8SQoNTFt3H6BU8waWfo2dfBxsDJkB6_mEqABFh-vboKxNF6baHSojhHIGQtWi9S-GFAQWvpLu5eqs9epkQT_hmvZCFMUwSm-VDSx9B80E5BQp2Oe6pZkxx3E=w2450-h1838-s-no-gm?authuser=0",
@@ -89,7 +93,7 @@
         "https://drive.google.com/file/d/1QsOD3fUJvnKaDZ9HbJOLfIG_Xi6_hkPt/view?usp=sharing",
         "https://drive.google.com/file/d/1QsOD3fUJvnKaDZ9HbJOLfIG_Xi6_hkPt/view?usp=drive_link",
         "https://drive.google.com/file/d/1naBi6ZcMfplM2b62Jxoh7p3Wn5MvBNwV/view?usp=sharing",
-        "https://drive.google.com/drive/folders/1FrWCDHIzbj8ADx5LykHr1uwrSKc1m_cX"  
+        "https://drive.google.com/drive/folders/1FrWCDHIzbj8ADx5LykHr1uwrSKc1m_cX"
       ]
     }
   },
@@ -103,7 +107,9 @@
     },
     "info": {
       "year": 1975,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Ударний вертоліт",
       "price": "$52-61 млн",
       "description": "Основний бойовий вертоліт армії США із середини 1980-х років. На 2021 рік є найпоширенішим ударним гелікоптером у світі"
@@ -118,15 +124,17 @@
       "end": "now"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "main": 840
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ah-64-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ah-64-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ah-64-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ah-64-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ah-64-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ah-64-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ah-64-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ah-64-comp-4.jpg"
       ]
     }
   },
@@ -140,7 +148,9 @@
     },
     "info": {
       "year": 2011,
-      "countries": ["Китай"],
+      "countries": [
+        "Китай"
+      ],
       "type": "Важкий винищувач четвертого (п'ятого) покоління",
       "price": "$100–120 млн",
       "description": "Вважається одним із ключових досягнень у сфері військової авіації для Китаю і є першим китайським винищувачем п'ятого покоління, призначеним для виконання ролі багатофункціонального винищувача"
@@ -155,16 +165,20 @@
       "end": "now"
     },
     "model": {
-      "scale": [100, 72],
+      "scale": [
+        100,
+        72
+      ],
       "colorsPrice": {
         "main72": 820,
-        "main100": 480
+        "main100_1": 480,
+        "main100_2": 480
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-20-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-20-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-20-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-20-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-20-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-20-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-20-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-20-comp-4.jpg"
       ],
       "actualFullImages": [
         "https://lh3.googleusercontent.com/pw/AP1GczN8Gaq_fw2l8hkdzp2Bzj7IoKbuTaDZbKtagGjUsQOwaLwUW-ojqYTAOqoCtEBlySBv5phh6q5Sdspj8t_mdjSivK71WHpdCvjwgKKhL8sQvGSKrc-sCAwWjf4e4tkehK7xWwdAFQBkfRA_4y_gdkgx=w2450-h1838-s-no-gm?authuser=0",
@@ -200,7 +214,9 @@
     },
     "info": {
       "year": 1976,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Штурмовик",
       "price": "$18,8 млн",
       "description": "Одномісний дводвигуновий штурмовик, призначений для надання безпосередньої підтримки сухопутних військ, ураження танків, бронемашин та інших наземних цілей"
@@ -215,16 +231,18 @@
       "end": "1984-01-01T00:00:00"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "dark": 750,
         "green": 780
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/a-10-dark-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/a-10-green-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/a-10-green-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/a-10-green+dark-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/a-10-dark-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/a-10-green-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/a-10-green-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/a-10-green+dark-comp-4.jpg"
       ]
     }
   },
@@ -238,7 +256,9 @@
     },
     "info": {
       "year": 2001,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Багатоцільовий винищувач",
       "price": "$143–180 млн",
       "description": "Малопомітний багатоцільовий винищувач «п'ятого покоління», розроблений для боротьби з авіацією супротивника, прикриття військ та тилових об'єктів від ударів з повітря, протидії повітряній розвідці супротивника вдень та вночі, у простих та складних метеоумовах"
@@ -253,15 +273,17 @@
       "end": "2011-01-01T00:00:00"
     },
     "model": {
-      "scale": [100],
+      "scale": [
+        100
+      ],
       "colorsPrice": {
         "main": 590
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-22-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-22-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-22-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-22-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-22-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-22-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-22-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-22-comp-4.jpg"
       ]
     }
   },
@@ -275,7 +297,9 @@
     },
     "info": {
       "year": 1989,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Стратегічний бомбардувальник",
       "price": "$2,1 млрд",
       "description": "Перший сучасний важкий літак зі схемою «літаюче крило», призначений для прориву щільної протиповітряної оборони (ППО) та доставки звичайної або ядерної зброї"
@@ -290,15 +314,17 @@
       "end": "2000-01-01T00:00:00"
     },
     "model": {
-      "scale": [200],
+      "scale": [
+        200
+      ],
       "colorsPrice": {
         "main": 460
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/b-2-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/b-2-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/b-2-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/b-2-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/b-2-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/b-2-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/b-2-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/b-2-comp-4.jpg"
       ]
     }
   },
@@ -312,7 +338,9 @@
     },
     "info": {
       "year": 2021,
-      "countries": ["Китай"],
+      "countries": [
+        "Китай"
+      ],
       "type": "Палубний винищувач п'ятого покоління",
       "price": "$80–100 млн",
       "description": "Одномісний дводвигунний багатогодинний багатоцільовий літак-невидимка спроектований із застосуванням технологій «стелс» призначених для завоювання переваги в повітрі та завдання ударів по наземних цілях, у тому числі у варіантах для ВПС і авіаносців"
@@ -328,15 +356,17 @@
       "end": "now"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "main": 570
-        },
+      },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-35-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-35-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-35-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/j-35-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-35-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-35-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-35-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/j-35-comp-4.jpg"
       ]
     }
   },
@@ -350,7 +380,9 @@
     },
     "info": {
       "year": 1975,
-      "countries": ["СРСР"],
+      "countries": [
+        "СРСР"
+      ],
       "type": "Штурмовик",
       "price": "$11–12 млн",
       "description": "Призначений для безпосередньої підтримки сухопутних військ за прямої видимості мети, а також знищення об'єктів із заданими координатами цілодобово в будь-яких метеоумовах"
@@ -365,16 +397,18 @@
       "end": "2005-01-01T00:00:00"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "rus": 730,
         "ukr": 750
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/su-25rus-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/su-25ukr-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/su-25ukr-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/su-25rus+su-25ukr_comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/su-25rus-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/su-25ukr-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/su-25ukr-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/su-25rus+su-25ukr_comp-4.jpg"
       ]
     }
   },
@@ -388,7 +422,9 @@
     },
     "info": {
       "year": 1935,
-      "countries": ["Німеччина"],
+      "countries": [
+        "Німеччина"
+      ],
       "type": "Фронтовий винищувач, винищувач-перехоплювач, винищувач-бомбардувальник, винищувач-розвідник, розвідник, навчально-тренувальний винищувач",
       "price": "42900 рейхсмарок, $23000–27000",
       "description": "Одномоторний поршневий винищувач-низькоплан, що складався на озброєнні «Люфтваффе» та ВПС різних країн майже 30 років і був одним із двох основних винищувачів «Люфтваффе», наймасовішим літаком Німеччини протягом усієї Другої світової війни, а також наймасовішим винищувачем в історії"
@@ -403,7 +439,10 @@
       "end": "1958-01-01T00:00:00"
     },
     "model": {
-      "scale": [48, 42],
+      "scale": [
+        48,
+        42
+      ],
       "colorsPrice": {
         "green": "_690",
         "black": "_620",
@@ -413,10 +452,10 @@
         "White": "_630"
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/bf-109-yellow-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/bf-109-yellow-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/bf-109-yellow-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/bf-109-yellow-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/bf-109-yellow-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/bf-109-yellow-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/bf-109-yellow-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/bf-109-yellow-comp-4.jpg"
       ]
     }
   },
@@ -430,7 +469,9 @@
     },
     "info": {
       "year": 1970,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Палубний винищувач-перехоплювач",
       "price": "$60–70 млн",
       "description": "Двомісний реактивний палубний винищувач-перехоплювач четвертого покоління з крилом змінної стріловидності, здатний завоювати повну повітряну перевагу в безпосередній близькості від авіанесучих кораблів, з яких передбачалося використовувати ці літаки, а також повинен був бути здатний завдавати ударів по тактичним наземним і надводним цілям"
@@ -445,17 +486,19 @@
       "end": "1992-01-01T00:00:00"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "white": 830,
         "black": 850,
         "desert": "_900"
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-14-white-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-14-black-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-14-white+black-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-14-white-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-14-white-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-14-black-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-14-white+black-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-14-white-comp-4.jpg"
       ]
     }
   },
@@ -469,7 +512,10 @@
     },
     "info": {
       "year": 1991,
-      "countries": ["Франція", "Німеччина"],
+      "countries": [
+        "Франція",
+        "Німеччина"
+      ],
       "type": "Ударний вертоліт",
       "price": "$39 млн",
       "description": "Чотирилопатний, двомоторний ударний вертоліт, який має відзнаку першого повністю композитного вертольота, такі як «скляна кабіна», технології малопомітності та висока маневровість для підвищення живучості"
@@ -484,15 +530,17 @@
       "end": "now"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "main": 670
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ec-665-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ec-665-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ec-665-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/ec-665-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ec-665-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ec-665-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ec-665-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/ec-665-comp-4.jpg"
       ]
     }
   },
@@ -506,7 +554,9 @@
     },
     "info": {
       "year": 1947,
-      "countries": ["СРСР"],
+      "countries": [
+        "СРСР"
+      ],
       "type": "Реактивний винищувач",
       "price": "$100000–300000",
       "description": "Найбільш масовий реактивний бойовий літак в історії авіації, що складався на озброєнні багатьох країн світу, що став одним з основних винищувачів, що брали участь у Корейській війні, застосовувався в перших арабо-ізраїльських війнах, і в численних менш значних військових конфліктах по всьому світу"
@@ -521,7 +571,9 @@
       "end": "1959-01-01T00:00:00"
     },
     "model": {
-      "scale": [48],
+      "scale": [
+        48
+      ],
       "colorsPrice": {
         "61035": 0,
         "61036": 0,
@@ -530,10 +582,10 @@
         "61039": 0
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/mig-15-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/mig-15-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/mig-15-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/mig-15-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/mig-15-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/mig-15-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/mig-15-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/mig-15-comp-4.jpg"
       ]
     }
   },
@@ -547,7 +599,9 @@
     },
     "info": {
       "year": 1926,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Біплан-розвідник, корабельний розвідник, легкий ударний літак, зв'язковий та навчальний літак, патрульний літак",
       "price": "$15000 — 16000",
       "description": "Палубний біплан-розвідник та літак спостереження 1920-х років. В 1930 став першим літаком Червоної армії Китаю з назвою «Ленін» і використовувався для розвідки, розкидання листівок і бомбардувань урядових військ. Одним із найвідоміших епізодів стало бомбардування позицій Гоміньдану в Хуан'яні в 1931 році"
@@ -562,7 +616,9 @@
       "end": "1930-01-01T00:00:00"
     },
     "model": {
-      "scale": [48],
+      "scale": [
+        48
+      ],
       "colorsPrice": {
         "skyBlue": 1040,
         "grey": 0,
@@ -570,10 +626,10 @@
         "yellowGreenWhite": "_1060"
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/o2u-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/o2u-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/o2u-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/o2u-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/o2u-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/o2u-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/o2u-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/o2u-comp-4.jpg"
       ]
     }
   },
@@ -587,7 +643,9 @@
     },
     "info": {
       "year": 1972,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Винищувач четвертого покоління",
       "price": "$90–117 млн",
       "description": "Всепогодний тактичний винищувач четвертого покоління. Призначений для завоювання переваги в повітрі. Відрізняється високою маневреністю, швидкістю та потужним озброєнням для повітряного бою. Активно використовувався в модифікаціях Strike Eagle (ударний) та Silent Eagle (малопомітний)"
@@ -602,15 +660,17 @@
       "end": "now"
     },
     "model": {
-      "scale": [144],
+      "scale": [
+        144
+      ],
       "colorsPrice": {
         "main": 370
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-15-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-15-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-15-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-15-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-15-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-15-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-15-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-15-comp-4.jpg"
       ]
     }
   },
@@ -624,7 +684,9 @@
     },
     "info": {
       "year": 1936,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Винищувач, штурмовик",
       "price": "$44892 ($650000)",
       "description": "Використовувався для знищення наземних цілей, колон техніки, складів та аеродромів. Мав дуже міцну конструкцію та рідинне охолодження, захищене бронею. Міг витримувати сильний вогонь із землі та повертатися на базу з величезними пробоїнами, але поступався німецьким Messerschmitt Bf-109 та японським Zero у маневреності чи скоропідйомності на великих висотах"
@@ -639,7 +701,9 @@
       "end": "1944-01-01T00:00:00"
     },
     "model": {
-      "scale": [48],
+      "scale": [
+        48
+      ],
       "colorsPrice": {
         "61028": 0,
         "61029": 1200,
@@ -648,10 +712,10 @@
         "61032": "_1100"
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-40-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-40-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-40-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-40-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-40-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-40-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-40-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-40-comp-4.jpg"
       ]
     }
   },
@@ -665,7 +729,9 @@
     },
     "info": {
       "year": 1933,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Одномісний біплан-винищувач, бомбардувальник",
       "price": "$34000 — 37000",
       "description": "Використовувався як швидкісний винищувач, а також для завдання ударів по наземних і морських цілях. Виконував функції пікіруючого бомбардувальника. Міг нести одну 227-кг (500-фунтову) бомбу на підфюзеляжному вузлі або чотири 45-кг (100-фунтові) бомби під крилами. Мав шасі, що забиралися (вперше для винищувачів Curtiss), що дозволило значно збільшити максимальну швидкість на 27,5 км/год більше. Модель Hawk III була спеціально адаптована для продажу в інші країни (зокрема, Китай, Таїланд та Аргентину), де вона стала основою винищувальної авіації в передвоєнний період"
@@ -680,7 +746,9 @@
       "end": "1936-01-01T00:00:00"
     },
     "model": {
-      "scale": [60],
+      "scale": [
+        60
+      ],
       "colorsPrice": {
         "darkKhaki": 830,
         "armyGreen": 0,
@@ -690,10 +758,10 @@
         "yellow": 0
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/hawk-3-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/hawk-3-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/hawk-3-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/hawk-3-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hawk-3-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hawk-3-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hawk-3-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hawk-3-comp-4.jpg"
       ]
     }
   },
@@ -707,7 +775,9 @@
     },
     "info": {
       "year": 1940,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Одномісний винищувач далекого радіусу дії",
       "price": "$50985 ($2500000 — $4000000)",
       "description": "Був одним із найефективніших та універсальних літаків Другої світової війни. Використовувався як винищувач супроводу далекого радіусу дії. Виконував завдання винищувача-бомбардувальника, пікіруючого бомбардувальника, тактичної розвідки. Мав відмінну швидкість і маневреність на великих висотах"
@@ -722,7 +792,9 @@
       "end": "1951-01-01T00:00:00"
     },
     "model": {
-      "scale": [48],
+      "scale": [
+        48
+      ],
       "colorsPrice": {
         "white": 0,
         "silverlLight": 0,
@@ -732,13 +804,13 @@
         "green": 690
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-51-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-51-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-51-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/p-51-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-51-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-51-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-51-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/p-51-comp-4.jpg"
       ],
       "actualFullImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/p-51/p-51-full-01.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/p-51/p-51-full-01.jpg",
         "https://lh3.googleusercontent.com/pw/AP1GczPJ7UL1IR8yatxiN1TqrqtaX-zoGVC3t8z3OHROCYMB5JajC7mKEKJgcQk0Qb4WeN1MpzW7ev_HngI0BbWvEpFqn8s7jatKllnvHtHBwsRZ6jtK8YbmkCIzEArCaLUfraNPPV8Azvy8sokCX2wGyMaK=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczMYyRQF_TuL8YACBkN0m3pePjpv8aIuO85e78qHoHd9aBU61ErtNhgGcxKc2brhM1KQKbkh2qUvu1RMak69HZX2C_XJFPLXMZ1WgFYw7aZJksZuHm90WsH16HFt3rM4IWahsTAtliPlgLQdoBUh1EKs=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczM2cjVQf6mO_ILefGnMrpyV3cB8w7hfFFqlYDsJmxTkxDRWFxo_pSolkPQ3f2c5Rn28axB2uKfgy7R9FGGbbqShe_9jpyAFrqmp66MOW0HfsnIZJ4KpqwKTucRrbuXqh-a04HnUmdkJgUMMcbVQBE6O=w2450-h1838-s-no-gm?authuser=0",
@@ -775,9 +847,9 @@
       ],
       "_actualFullImages": [
         "https://lh3.googleusercontent.com/pw/AP1GczPH5VAx0na14pJoBr3F804IerAJJrvdoJgaR4PD-fjLtq4ZYGqgVrOFVe1klx4v_Ywux9NriAORyNzMGWDKRbJBgEjNytY30XIiYqdsMRYWRU4ksnMdfLfxf8E4aG7Q6IcQw6wtyq347YMjL6DFADX_=w2450-h1838-s-no-gm?authuser=0",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/p-51/p-51-full-02.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/p-51/p-51-full-03.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual-full/p-51/p-51-full-04.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/p-51/p-51-full-02.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/p-51/p-51-full-03.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual-full/p-51/p-51-full-04.jpg"
       ]
     }
   },
@@ -791,7 +863,9 @@
     },
     "info": {
       "year": 1945,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Двомісний дальній винищувач",
       "price": "$215154",
       "description": "Останній поршневий винищувач, ухвалений на озброєння ВПС США. Виконував завдання: винищувач супроводу, нічний та всепогодний перехоплювач, штурмовик для атак наземних цілей. Двохфюзеляжна схема з двома кабінами дозволяла двом пілотам підміняти один одного в ході багатогодинних перельотів"
@@ -806,7 +880,9 @@
       "end": "1949-01-01T00:00:00"
     },
     "model": {
-      "scale": [48],
+      "scale": [
+        48
+      ],
       "colorsPrice": {
         "silverlLight": 0,
         "silverlDark": "_800",
@@ -814,10 +890,10 @@
         "black": "_790"
       },
       "_actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-82-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-82-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-82-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/f-82-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-82-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-82-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-82-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/f-82-comp-4.jpg"
       ]
     }
   },
@@ -831,7 +907,9 @@
     },
     "info": {
       "year": 1989,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Прототип багатоцільового винищувача п'ятого покоління",
       "price": "~$35–80 млн",
       "description": "Прототип YF-23 розроблявся з урахуванням вимог ПС США до підвищеної бойової живучості, малопомітності, можливостям польоту на надзвуковій швидкості без використання форсажу і простоті обслуговування. Першочерговим завданням було зниження помітності радіолокації літака. Всього було побудовано два літаки — PAV-1: «Black Widow II» («Чорна вдова II») або ж неофіційна назва «Spider» («Павук») та PAV-2: «Gray Ghost» («Сірий привид»). Прототип YF-23 програв у конкурсі YF-22, який у 2005 році надійшов на озброєння ПС США"
@@ -839,22 +917,25 @@
     "url": {
       "wikipedia": "https://ru.wikipedia.org/wiki/Northrop/McDonnell_Douglas_YF-23",
       "main": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Northrop_YF-23_DFRC.jpg",
-      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczMyVtbcrvGChAb4XMmAkP4AiLlVqBc3mQNVafkFxSL7lXsDu-0qu3LNV2-3cMn69gjkKZBuQO1Kp2eMyZDlI-cYxZuha524SBY1zVODOGstdvsdwFKVpIzEsrXuA1XnIyX2yHXoTphzIvpqSQuamjnz=w1333-h1254-s-no-gm?authuser=0"
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczNAwF8dmdYDtMswiTWMbR-kOUu5ba2p3MhFjzNiByXMLQ_XPQmuA_Nwzpv48-nsTr8dsfNRQuBp0srv_-qEl6S6kYtPQZIVBJYQojl90Axh48sV-oP-LM1yZXqB6FhEnqRwZ2sGOQ_hWgCTmI5PhRmM=w1365-h1375-s-no-gm?authuser=0"
     },
     "manufacturing": {
       "start": "1989-01-01T00:00:00",
       "end": "1990-01-01T00:00:00"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
-        "main": 910
+        "grey": 910,
+        "dark": "_920"
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/yf-23-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/yf-23-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/yf-23-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/yf-23-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/yf-23-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/yf-23-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/yf-23-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/yf-23-comp-4.jpg"
       ],
       "actualFullImages": [
         "https://lh3.googleusercontent.com/pw/AP1GczPhfYcxus7U75oiK6kMwOcK5UV5YO-9N4Yf9cqzrz68GWuCgluDRW1twaTtFQGp543w7w9QWxWZFY0dHH2w1D9zwcbl8oZeK5hmtnSJu93T1u3z16dyVAc1NI-Yvkghq0oimYtgeOB4UShV0gvsgDEU=w2450-h1838-s-no-gm?authuser=0",
@@ -881,7 +962,9 @@
     },
     "info": {
       "year": 1995,
-      "countries": ["США"],
+      "countries": [
+        "США"
+      ],
       "type": "Палубний винищувач-бомбардувальник та штурмовик",
       "price": "$65–80 млн",
       "description": "Двомісний реактивний палубний багатоцільовий винищувач-бомбардувальник та штурмовик четвертого покоління. Літери у назві F/A розшифровуються як Fighter (винищувач) і Attack (штурмовик), що вказує на його здатність однаково ефективно вести повітряний бій та завдавати ударів по наземних чи морських цілях. Часто використовується ВМС США як тактичний повітряний заправник з підвісним контейнером"
@@ -896,16 +979,18 @@
       "end": "now"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "lightGray": 920,
         "lightBlue": 950
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/fa-18f-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/fa-18f-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/fa-18f-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/fa-18f-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/fa-18f-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/fa-18f-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/fa-18f-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/fa-18f-comp-4.jpg"
       ],
       "actualFullImages": [
         "https://lh3.googleusercontent.com/pw/AP1GczMspQKzqwbaJZu4YKeNEEJ3IzjEAkOaeUD11vxQO-d2CBf6zmnopWDfmWL2ddEiqPjVuCZGSr9Pbb9O0cdm5r5Rw4jBuB4PdSt99TsXEweqWc4gZw36aP6PA95Np6OKPRzqafuODukijua1uw-FtZp3=w2450-h1838-s-no-gm?authuser=0",
@@ -941,7 +1026,9 @@
     },
     "info": {
       "year": 2010,
-      "countries": ["Китай"],
+      "countries": [
+        "Китай"
+      ],
       "type": "Ударний вертоліт",
       "price": "$25-30 млн",
       "description": "Перший спеціалізований ударний гелікоптер Китаю. Виконаний за класичною схемою, з тандемним розміщенням екіпажу. Розроблений для потреб Народно-визвольної армії Китаю (НВАК) за участю російського конструкторського бюро імені Камова. Основне призначення - знищення бронетехніки, живої сили та укріплень противника, а також безпосередня вогнева підтримка наземних військ на полі бою"
@@ -956,15 +1043,17 @@
       "end": "now"
     },
     "model": {
-      "scale": [72],
+      "scale": [
+        72
+      ],
       "colorsPrice": {
         "main": 740
       },
       "actualImages": [
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/z-10-comp-1.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/z-10-comp-2.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/z-10-comp-3.jpg",
-        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests/images/planes-actual/z-10-comp-4.jpg"
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/z-10-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/z-10-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/z-10-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/z-10-comp-4.jpg"
       ],
       "actualFullImages": [
         "https://lh3.googleusercontent.com/pw/AP1GczMRDPun3mj2QucBDKZmwz4VHqQ-pZyyu21121mHbFSeeDMexN0-RtAa6mvx0HeIwJJ08AWSDF82fdoeD8YcLGIXc09U96ta8BcAi1l3MkudxLi3HJ_OjSf-qqxSH-yiDZwIhs4wjQNXFbbYHrs0MXTQ=w2450-h1838-s-no-gm?authuser=0",
@@ -976,6 +1065,220 @@
         "https://lh3.googleusercontent.com/pw/AP1GczMTrq39QuHpk5vkVO1GipmfDS3UrcMbUHV5pTZQ2iFySG6cbTbDPOlov-AZdJE1Vkq-pYfUimMJl67S58iX5ZSRnowj4mwpDie_SirtDRti0lw24jRSvQUpQ8b4SoJDuU0jO0zeQw-QWj3rP-S4K8Jt=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczN_U7AgnPhYvolBXI70dqoYP_GPsnLGFDk3C19Fn8qkWC5CcKNbZJOIVmg-LTPr1b1Pn1bTPN9uz1-dnFqM-LgAJqkuDImHWJhm4yedxRhGG2OL-lVt1BhzDJBDsCGboYd2azqK6MeYWSwSwkZWFmr4=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczOQ8--lOo0AyRCP6K1yHmv80ludfihLOyFaNT2sWwjTTTaWVKd91CE2EA8jO3pbX8exj6ePVDddXB66j6oYSK9G9nfNqcAYd6cZWCAzefWUZy_fEKaSfSd2qzv2slCQTOk24atd3u-o7_VzQAkYRgzX=w2450-h1838-s-no-gm?authuser=0"
+      ]
+    }
+  },
+  {
+    "id": "0022",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "Hurricane",
+      "full": "Hawker Hurricane",
+      "nickname": "Го́укер Га́ррікейн, Ураган, Робоча конячка, Харитон, Горбатий («Hawker Hurricane», «The Workhorse»)"
+    },
+    "info": {
+      "year": 1935,
+      "countries": [
+        "Великобританія"
+      ],
+      "type": "Винищувач, винищувач-перехоплювач, винищувач-бомбардувальник",
+      "price": "4000-10000 фунтів стерлінгів",
+      "description": "Британський одномісний винищувач був багатоцільовим ударним літаком, який став робочим конем ВПС Великобританії під час Другої світової війни. Використовувався як: винищувача-перехоплювач у Битві за Британію, штурмовика та винищувача-бомбардувальника, протитанкового літака, палубного винищувача та захисника конвоїв, літака ППО та фронтового винищувача по ленд-лізу, розвідника та нічного винищувача"
+    },
+    "url": {
+      "wikipedia": "https://ru.wikipedia.org/w/index.php?title=Hawker_Hurricane&stable=1",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/2/28/Hurricane_mk1_r4118_fairford_arp.jpg",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczMFMLMAAkLylWFVidYAubTx3GtfkXTU3y61zQwspnFO_1lDNnHujViAFuufzPnsbT_CylvFWl5qyTwTKOLo41V-wvPssbzB1kvoEkHvkNFVPZcWIEwBlhAXix23yDsOuNY8gksTn_eG7L6DQts6Q216=w1779-h1453-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "1937-01-01T00:00:00",
+      "end": "1944-01-01T00:00:00"
+    },
+    "model": {
+      "scale": [
+        48,
+        35
+      ],
+      "colorsPrice": {
+        "main": "_2100",
+        "color1": "_480",
+        "color2": "_480",
+        "color3": "_480",
+        "color4": "_480"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
+      ]
+    }
+  },
+  {
+    "id": "0023",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "KJ-600",
+      "full": "Xi'an KJ-600",
+      "nickname": "Нечжа, Китайський Хокай, Китайське соколине око («Nezha», «哪吒», «Chinese Hawkeye»)"
+    },
+    "info": {
+      "year": 2020,
+      "countries": [
+        "Китай"
+      ],
+      "type": "Палубний літак дальнього радіолокаційного виявлення і управління (ДРЛВіУ)",
+      "price": "~ $200+ млн",
+      "description": "Військовий літак дальнього радіолокаційного стеження та управління оснащений системою AWACS/АВАКС для авіаносних ударних груп Військово-морських сил Народно-визвольної армії Китаю, розроблений компанією Xi'an Aircraft Industrial, що також використовується як транспортний літак палубного базування та літак для доставки вантажів на авіаносець"
+    },
+    "url": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Xi%27an_KJ-600",
+      "main": "https://p.turbosquid.com/ts-thumb/Ev/pv3DYr/bLypcETe/kj600_grad_0120/jpg/1592411731/1920x1080/fit_q87/238e8f7404fb76cb71e2326b421812524c69614f/kj600_grad_0120.jpg",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczPWL33qCKK84Nq8vPiunvgCcRSg7cylnZ4jNxqdK90SE3OloVWd98YXWWFKSx7ctWH6GCdizzmV8rZZaZhfMG2y1rmytVMN7Hv-SEXXQZGzMiUsS763qlFnobR90MrnHmmrQA0OB7hKc35EQptvr5FJ=w1348-h1182-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "2020-01-01T00:00:00",
+      "end": "now"
+    },
+    "model": {
+      "scale": [
+        72
+      ],
+      "colorsPrice": {
+        "main": "_1500"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
+      ]
+    }
+  },
+  {
+    "id": "0024",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "AV-8B",
+      "full": "AV-8B Harrier II",
+      "nickname": "Пострибунчик, Свистяча бляшанка, Зависаючий винищувач («Jump Jet», «Whistling Shitcan», «Hover Jet»)"
+    },
+    "info": {
+      "year": 1978,
+      "countries": [
+        "США"
+      ],
+      "type": "Штурмовик вертикального зльоту та посадки",
+      "price": "$24-30 млн",
+      "description": "Легкий багатоцільовий штурмовик вертикального/укороченого зльоту та посадки, створений для безпосередньої авіаційної підтримки наземних військ. Літак здатний базуватися на невеликих десантних кораблях та непідготовлених передових майданчиках поблизу лінії фронту"
+    },
+    "url": {
+      "wikipedia": "https://ru.wikipedia.org/w/index.php?title=AV-8B&stable=1",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/0/04/United_States_Marine_Corps_AV-8B_Harrier_II_hovering.jpg?utm_source=ru.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczMKspKAFe6aFbwg-Q0xI7MJm3lyernbx2xyNqTmcfH4j3XeKBSd4y-ueWVtcEgcxWuXoc3Co-TehJVF5WfIRq86NQsj7IhFeegwwDONn6q5pfMVFbjSD5i2NfNLXPdaW_i2J-EGWtlyvyU1vWW1_9Kq=w1317-h1201-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "1981-01-01T00:00:00",
+      "end": "2003-01-01T00:00:00"
+    },
+    "model": {
+      "scale": [
+        72
+      ],
+      "colorsPrice": {
+        "main": "_590"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
+      ]
+    }
+  },
+  {
+    "id": "0025",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "P-38",
+      "full": "Lockheed P-38 Lightning",
+      "nickname": "Блискавка, Диявол з подвоєним хвостом, Два літака один пілот («Lightning», «der Gabelschwanz-Teufel», «Ni hikōki, ippairotto»)"
+    },
+    "info": {
+      "year": 1939,
+      "countries": [
+        "США"
+      ],
+      "type": "Важкий двомоторний винищувач",
+      "price": "$97147 ($6500000 — $6750000)",
+      "description": "У роки Другої світової війни був універсальною багатоцільовою бойовою машиною. Спочатку створювався як висотний перехоплювач, але під час війни його завдання значно розширилися. Завдяки двом потужним двигунам і можливості підвіски додаткових скиданих паливних баків, мав величезну для свого часу дальність польоту. Його використовували для прикриття важких бомбардувальників на Тихому океані та в Європі як далекий винищувач супроводу. Він також використовувався як винищувач-бомбардувальник та фоторозвідник"
+    },
+    "url": {
+      "wikipedia": "https://ru.wikipedia.org/wiki/Lockheed_P-38_Lightning",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lockheed_P-38_Lightning_USAF.JPG?utm_source=ru.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczPMGa-A_5f62IpZGXycBJV7a2ZTd8JtTHBb2Ewr1hvjsKNRM8dnB0JG5C9kHwbmK1nObWDMj6nMYS330JPFTy93_q6RP1pImXPPhbTJ6B-hveWygrGhM10tlD8Npmsj-HyDP28ZYyVQJiP9Wg1aZ5tx=w1536-h1391-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "1940-01-01T00:00:00",
+      "end": "1945-01-01T00:00:00"
+    },
+    "model": {
+      "scale": [
+        48
+      ],
+      "colorsPrice": {
+        "green": "_995",
+        "silver": "_990"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
       ]
     }
   }

@@ -917,7 +917,7 @@
     "url": {
       "wikipedia": "https://ru.wikipedia.org/wiki/Northrop/McDonnell_Douglas_YF-23",
       "main": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Northrop_YF-23_DFRC.jpg",
-      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczMyVtbcrvGChAb4XMmAkP4AiLlVqBc3mQNVafkFxSL7lXsDu-0qu3LNV2-3cMn69gjkKZBuQO1Kp2eMyZDlI-cYxZuha524SBY1zVODOGstdvsdwFKVpIzEsrXuA1XnIyX2yHXoTphzIvpqSQuamjnz=w1333-h1254-s-no-gm?authuser=0"
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczNAwF8dmdYDtMswiTWMbR-kOUu5ba2p3MhFjzNiByXMLQ_XPQmuA_Nwzpv48-nsTr8dsfNRQuBp0srv_-qEl6S6kYtPQZIVBJYQojl90Axh48sV-oP-LM1yZXqB6FhEnqRwZ2sGOQ_hWgCTmI5PhRmM=w1365-h1375-s-no-gm?authuser=0"
     },
     "manufacturing": {
       "start": "1989-01-01T00:00:00",
@@ -928,7 +928,8 @@
         72
       ],
       "colorsPrice": {
-        "main": 910
+        "grey": 910,
+        "dark": "_920"
       },
       "actualImages": [
         "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/yf-23-comp-1.jpg",
@@ -1064,6 +1065,220 @@
         "https://lh3.googleusercontent.com/pw/AP1GczMTrq39QuHpk5vkVO1GipmfDS3UrcMbUHV5pTZQ2iFySG6cbTbDPOlov-AZdJE1Vkq-pYfUimMJl67S58iX5ZSRnowj4mwpDie_SirtDRti0lw24jRSvQUpQ8b4SoJDuU0jO0zeQw-QWj3rP-S4K8Jt=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczN_U7AgnPhYvolBXI70dqoYP_GPsnLGFDk3C19Fn8qkWC5CcKNbZJOIVmg-LTPr1b1Pn1bTPN9uz1-dnFqM-LgAJqkuDImHWJhm4yedxRhGG2OL-lVt1BhzDJBDsCGboYd2azqK6MeYWSwSwkZWFmr4=w2450-h1838-s-no-gm?authuser=0",
         "https://lh3.googleusercontent.com/pw/AP1GczOQ8--lOo0AyRCP6K1yHmv80ludfihLOyFaNT2sWwjTTTaWVKd91CE2EA8jO3pbX8exj6ePVDddXB66j6oYSK9G9nfNqcAYd6cZWCAzefWUZy_fEKaSfSd2qzv2slCQTOk24atd3u-o7_VzQAkYRgzX=w2450-h1838-s-no-gm?authuser=0"
+      ]
+    }
+  },
+  {
+    "id": "0022",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "Hurricane",
+      "full": "Hawker Hurricane",
+      "nickname": "Го́укер Га́ррікейн, Ураган, Робоча конячка, Харитон, Горбатий («Hawker Hurricane», «The Workhorse»)"
+    },
+    "info": {
+      "year": 1935,
+      "countries": [
+        "Великобританія"
+      ],
+      "type": "Винищувач, винищувач-перехоплювач, винищувач-бомбардувальник",
+      "price": "4000-10000 фунтів стерлінгів",
+      "description": "Британський одномісний винищувач був багатоцільовим ударним літаком, який став робочим конем ВПС Великобританії під час Другої світової війни. Використовувався як: винищувача-перехоплювач у Битві за Британію, штурмовика та винищувача-бомбардувальника, протитанкового літака, палубного винищувача та захисника конвоїв, літака ППО та фронтового винищувача по ленд-лізу, розвідника та нічного винищувача"
+    },
+    "url": {
+      "wikipedia": "https://ru.wikipedia.org/w/index.php?title=Hawker_Hurricane&stable=1",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/2/28/Hurricane_mk1_r4118_fairford_arp.jpg",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczMFMLMAAkLylWFVidYAubTx3GtfkXTU3y61zQwspnFO_1lDNnHujViAFuufzPnsbT_CylvFWl5qyTwTKOLo41V-wvPssbzB1kvoEkHvkNFVPZcWIEwBlhAXix23yDsOuNY8gksTn_eG7L6DQts6Q216=w1779-h1453-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "1937-01-01T00:00:00",
+      "end": "1944-01-01T00:00:00"
+    },
+    "model": {
+      "scale": [
+        48,
+        35
+      ],
+      "colorsPrice": {
+        "main": "_2100",
+        "color1": "_480",
+        "color2": "_480",
+        "color3": "_480",
+        "color4": "_480"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/hurricane-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
+      ]
+    }
+  },
+  {
+    "id": "0023",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "KJ-600",
+      "full": "Xi'an KJ-600",
+      "nickname": "Нечжа, Китайський Хокай, Китайське соколине око («Nezha», «哪吒», «Chinese Hawkeye»)"
+    },
+    "info": {
+      "year": 2020,
+      "countries": [
+        "Китай"
+      ],
+      "type": "Палубний літак дальнього радіолокаційного виявлення і управління (ДРЛВіУ)",
+      "price": "~ $200+ млн",
+      "description": "Військовий літак дальнього радіолокаційного стеження та управління оснащений системою AWACS/АВАКС для авіаносних ударних груп Військово-морських сил Народно-визвольної армії Китаю, розроблений компанією Xi'an Aircraft Industrial, що також використовується як транспортний літак палубного базування та літак для доставки вантажів на авіаносець"
+    },
+    "url": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Xi%27an_KJ-600",
+      "main": "https://p.turbosquid.com/ts-thumb/Ev/pv3DYr/bLypcETe/kj600_grad_0120/jpg/1592411731/1920x1080/fit_q87/238e8f7404fb76cb71e2326b421812524c69614f/kj600_grad_0120.jpg",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczPWL33qCKK84Nq8vPiunvgCcRSg7cylnZ4jNxqdK90SE3OloVWd98YXWWFKSx7ctWH6GCdizzmV8rZZaZhfMG2y1rmytVMN7Hv-SEXXQZGzMiUsS763qlFnobR90MrnHmmrQA0OB7hKc35EQptvr5FJ=w1348-h1182-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "2020-01-01T00:00:00",
+      "end": "now"
+    },
+    "model": {
+      "scale": [
+        72
+      ],
+      "colorsPrice": {
+        "main": "_1500"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/kj-600-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
+      ]
+    }
+  },
+  {
+    "id": "0024",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "AV-8B",
+      "full": "AV-8B Harrier II",
+      "nickname": "Пострибунчик, Свистяча бляшанка, Зависаючий винищувач («Jump Jet», «Whistling Shitcan», «Hover Jet»)"
+    },
+    "info": {
+      "year": 1978,
+      "countries": [
+        "США"
+      ],
+      "type": "Штурмовик вертикального зльоту та посадки",
+      "price": "$24-30 млн",
+      "description": "Легкий багатоцільовий штурмовик вертикального/укороченого зльоту та посадки, створений для безпосередньої авіаційної підтримки наземних військ. Літак здатний базуватися на невеликих десантних кораблях та непідготовлених передових майданчиках поблизу лінії фронту"
+    },
+    "url": {
+      "wikipedia": "https://ru.wikipedia.org/w/index.php?title=AV-8B&stable=1",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/0/04/United_States_Marine_Corps_AV-8B_Harrier_II_hovering.jpg?utm_source=ru.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczMKspKAFe6aFbwg-Q0xI7MJm3lyernbx2xyNqTmcfH4j3XeKBSd4y-ueWVtcEgcxWuXoc3Co-TehJVF5WfIRq86NQsj7IhFeegwwDONn6q5pfMVFbjSD5i2NfNLXPdaW_i2J-EGWtlyvyU1vWW1_9Kq=w1317-h1201-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "1981-01-01T00:00:00",
+      "end": "2003-01-01T00:00:00"
+    },
+    "model": {
+      "scale": [
+        72
+      ],
+      "colorsPrice": {
+        "main": "_590"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
+      ]
+    }
+  },
+  {
+    "id": "0025",
+    "aircraftType": "plane",
+    "name": {
+      "brief": "P-38",
+      "full": "Lockheed P-38 Lightning",
+      "nickname": "Блискавка, Диявол з подвоєним хвостом, Два літака один пілот («Lightning», «der Gabelschwanz-Teufel», «Ni hikōki, ippairotto»)"
+    },
+    "info": {
+      "year": 1939,
+      "countries": [
+        "США"
+      ],
+      "type": "Важкий двомоторний винищувач",
+      "price": "$97147 ($6500000 — $6750000)",
+      "description": "У роки Другої світової війни був універсальною багатоцільовою бойовою машиною. Спочатку створювався як висотний перехоплювач, але під час війни його завдання значно розширилися. Завдяки двом потужним двигунам і можливості підвіски додаткових скиданих паливних баків, мав величезну для свого часу дальність польоту. Його використовували для прикриття важких бомбардувальників на Тихому океані та в Європі як далекий винищувач супроводу. Він також використовувався як винищувач-бомбардувальник та фоторозвідник"
+    },
+    "url": {
+      "wikipedia": "https://ru.wikipedia.org/wiki/Lockheed_P-38_Lightning",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lockheed_P-38_Lightning_USAF.JPG?utm_source=ru.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczPMGa-A_5f62IpZGXycBJV7a2ZTd8JtTHBb2Ewr1hvjsKNRM8dnB0JG5C9kHwbmK1nObWDMj6nMYS330JPFTy93_q6RP1pImXPPhbTJ6B-hveWygrGhM10tlD8Npmsj-HyDP28ZYyVQJiP9Wg1aZ5tx=w1536-h1391-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "1940-01-01T00:00:00",
+      "end": "1945-01-01T00:00:00"
+    },
+    "model": {
+      "scale": [
+        48
+      ],
+      "colorsPrice": {
+        "green": "_995",
+        "silver": "_990"
+      },
+      "_actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/av-8b-comp-4.jpg"
+      ],
+      "_actualFullImages": [
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://"
       ]
     }
   }
