@@ -1139,7 +1139,7 @@
         "Китай"
       ],
       "type": "Палубний літак дальнього радіолокаційного виявлення і управління (ДРЛВіУ)",
-      "price": "~ $200+ млн",
+      "price": "~$200+ млн",
       "description": "Військовий літак дальнього радіолокаційного стеження та управління оснащений системою AWACS/АВАКС для авіаносних ударних груп Військово-морських сил Народно-визвольної армії Китаю, розроблений компанією Xi'an Aircraft Industrial, що також використовується як транспортний літак палубного базування та літак для доставки вантажів на авіаносець"
     },
     "url": {
@@ -1278,7 +1278,82 @@
         "https://",
         "https://",
         "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
+        "https://",
         "https://"
+      ]
+    }
+  },
+  {
+    "id": "0026",
+    "aircraftType": "tiltrotor",
+    "name": {
+      "brief": "V-22",
+      "full": "Bell Boeing V-22 Osprey",
+      "nickname": "Оспрі, Скопа, Тилтротор, Конвертоплан («Osprey», «Tiltrotor», «Plopter»)"
+    },
+    "info": {
+      "year": 1989,
+      "countries": [
+        "США"
+      ],
+      "type": "Конвертоплан",
+      "price": "$90-120 млн",
+      "description": "Єдиний у світі конвертоплан, що випускався серійно і поєднує окремі можливості літака і вертольота. Поєднує зліт та зависання вертольота з більш високою швидкістю та дальністю польоту літака. Літає швидше і далі звичайних гелікоптерів, але не вимагає злітно-посадкових смуг, як класичні транспортні літаки. Був створений для десантно-транспортних операцій, спецоперацій та постачання військ на великих відстанях із можливістю вертикального зльоту та посадки"
+    },
+    "url": {
+      "wikipedia": "https://ru.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/8/87/US_Navy_061206-N-0458E-076_A_U.S._Marine_Corps_V-22_Osprey_helicopter_practices_touch_and_go_landings_on_the_flight_deck_of_the_multipurpose_amphibious_assault_ship_USS_Wasp_%28LHD_1%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "main2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/USAF_CV-22B_Osprey_11-0058_RIAT_2023_03.jpg/3840px-USAF_CV-22B_Osprey_11-0058_RIAT_2023_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "promotional": "https://lh3.googleusercontent.com/pw/AP1GczOlM0Y7VKqnGRbEMlE_LE-0r2mc8zF_mZ9h3XBFyGI4m4NFpIwOVIdu7u2w_3F16dK8eysCkKIt5-whpb5Oy3ela6Cb_w45MYUiLHWfeJRX21TMca8TdSdKlChtAjmYEeYYc2Db0QCVAgOW_uThg479=w1183-h1079-s-no-gm?authuser=0"
+    },
+    "manufacturing": {
+      "start": "2005-01-01T00:00:00",
+      "end": "now"
+    },
+    "model": {
+      "scale": [
+        72
+      ],
+      "colorsPrice": {
+        "main": "1250"
+      },
+      "actualImages": [
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/v-22-comp-1.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/v-22-comp-2.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/v-22-comp-3.jpg",
+        "/airplane-model-store3-state2-form1-lifeCycle-HTTPrequests-Hooks/images/planes-actual/v-22-comp-4.jpg"
+      ],
+      "actualFullImages": [
+        "https://lh3.googleusercontent.com/pw/AP1GczO8j06f-KWwVB7CQxsCu-Kz6noNLfsuwUIKrlhCVEZZSWJl4US9puWZgCxnAfr--aEg7csIR2GNOUYM7yB_ktyyTUDF5pEoTYGqaKr6smOBQ-GSURbDRpnHHvgCQSH3pyfn2XEedy9CcCbyj_aTJkiG=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczMumDn7fNTbVO_nIlKAtul1GYaliKNhttSmtba2sL9zOllyxHoAD2nVW_GWne-cnUtFfeyIyx3DvJl6xFVIIVgR9rGHT38Sf7JldQ8rjnqEt-va73pob-uGfB2Z-9GUlcUeY2FV6JxuNR32cIe-gtoI=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczO_wllpblBslm7p7yUNjAGYrUIPhohe4OhdLpTAXHPA2egwJzMjQnDC2SoxDFBcXWFimR1wGyJAZEMDma5xuHzety4CkKhGjj6UtdouhzMpt2bgRMLMRYiL2xsQZH_IQL0xpPJwGQmaqW5RiqHXAMgz=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczOSnAFg4MsH0yaZIVQFFL-hqZInCuvqkYVQPNW6Ps6OkOclnUEyRr164hTcqcY9VM0mchWCpUNfcBNROqwI427RDJkKUFo8faSRB_BLms_5P1_JzKyDbJ3erkvvEW3t1t5m5ouCXirpgJuzWm1_E8sL=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczNLfU1XGCbABkhEWeED6mS15plScc2UeBgmARLFy5Y1DcwM6VvGIE3I3bBreibMn82GC68OboOpQNpBx2QvxF2a1mafQyFUgPTW_X0O2fgJLNCS6_fGd93nkyLODt3maOFk6qHaGPSVQGZjhbfZ2Pzl=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczNzeHlIIs7MiuFb7BLwcAiCI0AOotyNOAip7ouYl_8IQv40zO0DNViJl-m6xtR-6J1ft08TBTqjyPV5WDFx_BRMzgF3g9BysV5IZMw-6GuW95G5GEUasI-diZ2A7TqzKVW3JBdGXO28nYWd9NrkgGS0=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczNuCI_UEPjdLB7uRRoFpPB4FyP3TIcsQG9G1118PV5-813NcgotglDLxwbT-UwnPYTZ9QXAL8EbZHXgyu0S9Ivg3mTvj0ycyB85G2mXfcuOnjGpvMq2b7M9Lko1DXBesRzdvlB3yNjcxXSJW5evIoko=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczPovgmj3A3pLQIYUTGDlFznNhBZTAHuImRCvVqlgIRFbZP7wh5XejVhQWrEoAu8CgYc3Ih4SqRDtMWyYQlGPo3kbNXk-8qYZVfqrgml1zXQpxi2-PhEg1CDTFCkifwfY9nNa1y_j4AoKXCYmfqaBJuG=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczM8a8F2Zjz1TSIQ30Ru0Dg3QtS4kpnPKIIZt-3EswHfIwilN5RwXrOs40qY7hDQgu5ITRmhvH3z_mpVWZGJH9tXMNBNBCfyMCiLOOf_8PhL2Yz7ViWvj34IPB-fXz2gGOjRc26_IMAcy1s6SfkzzP4P=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczPAzN1XOkB0rKtxb4x--tkTUr-OogQXMn-P0dbZCOS7zjgFt1ogBi1uWD7xpxy7A-H2gh9Tbo6KD09ocaz-70kRfb03RsVIPzo8_-8nKYAmKa-ChhJvboTZoe-d2ioJk4KYv374cUJVy3zMIfgHRM_i=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczOZXMEHYQOuZjkj0YHDJLeCKzoSS53B1te-a8jrcxEW2f_eSxUDaZcSC4BXbVggnsWchcGeQTjDICwaJDp3EgGLh73vl-VcTNh-e0UtdonAmr1qdlTi9hfuzyG_P3BQM_CW_nkJMLilPLXr5h-PeCAP=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczOrQvn-iyTJuMxNQ09i-MnpY31UUYgi98FLn66mTB4wfDhQEvUF77qdjSjiiH_-Rf9mAAvYX-nUFxakBvFspOauvv_e-xgV2B2kVGoOO1nghKGEtdtzj6bNzqfgBq0Xnz5wrsleXLgInkbANCpynYTz=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczPOJs7FLuceriY4w0FecVrmx8MCccy-fElxoExWMOoJMliHAH0fnw6BD2lb9vL2ECkv7PME6JJl-Gtgkl9XHFYP2S-ixbHQezbUEEgV5x42V2a8q7bdNk2Wvxy4QOhtWtn9L3g-JWHbiCjeH4Rbf5-6=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczNZvg2R4EP_xH_NBAj5ZO44sU8k_4b8VJq8nN0hKl5sxsOOKYWGV2PZ-RzqoTRP5BiJ0iYEKnk_nK8ClPKQNFY5V1eue8-GIyifT-dzjyCDzEXQViJj7CPraSy0NeSb_4_XU8fFEzHIpTp5I9l1qZ3H=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczOREr_oKLt9S2MHiGuGPuX_bj3GEnrzIPk-kbQWVRtNvre5FriWzMID7Y34NXmE6vU9qoV2JF4fZ2rVlW3y4hGVhWo03DXcHC_5cFpGrqlNbUnNKm1ZXZlA20MAvfFyT0i55qq8CeAiAtU48rd-VEI4=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczOjCJZYCoG1Orx4FRp084dAAkBh6dLQbpZHow8IWW-R70HDvrGGuiJC4YvTbhgKECSH0X_YTashCjdYJtowrRmiI_G1fQ74SyKjyE7vXvsahizg3BFOZlu85wRqQlpO3_Ok3VALMbHLr3pNdjXJEO5g=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczOgLJtYiuV_XdOnTkaHseloTmXQ_-NpnpOXzm8tmViXaVB6cOA_6GM1Q00kDn_UsmGT0Q6P_gAlJKK_JlUbnrc-km7EHjycKjO4kVLLktkZttgPtBHCbloPMuvuZP0YvojIMPdwLOqJTGTkKbFSt1jx=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczO9pojrOcjz5KrCR12A_TD440B3Wfv8rF3GWgYmbeKwb0OpPui144rNQNC8Gbsqy0dQdBokGC6Qy7-EI8cZQn21C8q29pnZ_ooyp5vbsNPnbhldKeaiw-KW_6JikaQZA7mTASWZ5L8qwuvquiAxXBdI=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczNMTQhrHErDpUluOgEtfXBwi529N-Fbwr7m-ASXdWjF6JJagrzor3n-GnkZVvSz4bwJua8JJgiNxkmp4IpUlWSRf5lI0JKZuGEVLjmjBB0meZN1qxBzVNIjp-7vARDTjs3GSz5kL1avS8Sq3FcB466p=w2450-h1838-s-no-gm?authuser=0",
+        "https://lh3.googleusercontent.com/pw/AP1GczOHj8EzLWrZv969bxk2o_IPT1CORzf-jfiUzfehzDBpSWSqD06NDjWHHAHD6z5U4CbxtH2xN3N3f-CyqWHFpHUPa5OpaQrBxXI4cxn1wqUT-dyp8TKVDtPKC3sr65gQOail_S4zYnn3apANA-5HwDzH=w2450-h1838-s-no-gm?authuser=0"
       ]
     }
   }
